@@ -15,5 +15,3 @@ array.clear()
 for num in array:
         print (num) 
 
-
-

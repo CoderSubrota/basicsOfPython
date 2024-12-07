@@ -26,7 +26,7 @@ class Triangle(Shape):
          super().__init__(name)
          
     def area(self, x, y):
-        return 1/5*(x*y)
+        return 0.5 * (x*y)
 
 
 rec = Rectangle("Rectangle")
